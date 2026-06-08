@@ -34,7 +34,7 @@ Clean Architecture · BLoC/Cubit · REST APIs · State Management
 
 **@ nowocode UG**
 - 🌸 **Season** — A Flutter app helping women plan their life around their hormonal cycle. Launched to 500+ beta testers.
-- 🏥 **Healthcare Data Platform** — Full-stack development (FastAPI + React) for a European healthcare initiative handling sensitive patient data.
+- 🏥 **Healthcare Data Platform** — Full-stack development (FastAPI + React) for a healthcare Project
 
 ---
 
